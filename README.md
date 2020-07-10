@@ -1,4 +1,10 @@
-### Hi there 👋
+### **Olá!** 👋
+
+Seja bem-vindo(a) ao meu GitHub 😄
+
+Siga-me também no [LinkedIn](https://www.linkedin.com/in/lucas-labre-de-melo/)
+
+Entre em contato comigo pelo [WhatsApp](https://wa.me/5521984068589)
 
 <!--
 **lucaslabre/lucaslabre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
